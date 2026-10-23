@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Visfits: Wreckshift",
   "short_name": "Visfits",
-  "description": "A miniature precision-demolition game. Clear the coral towers. Keep the mint landmarks standing.",
+  "description": "A miniature demolition puzzle you can rewind. Pull a tower, wind back the collapse, and change the city’s fate.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
