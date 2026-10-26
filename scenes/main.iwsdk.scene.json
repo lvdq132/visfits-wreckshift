@@ -41,7 +41,7 @@
           1.0,
           -1.25
         ],
-        "fov": 29
+        "fov": 31
       }
     ]
   },
@@ -71,7 +71,7 @@
             0.85,
             1
           ],
-          "intensity": 1.2
+          "intensity": 0.85
         }
       }
     },
@@ -97,7 +97,7 @@
             0.61,
             1
           ],
-          "intensity": 3.2,
+          "intensity": 3.5,
           "castShadow": true
         }
       }
@@ -124,7 +124,7 @@
             1,
             1
           ],
-          "intensity": 2.3,
+          "intensity": 2.0,
           "castShadow": false
         }
       }
